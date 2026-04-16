@@ -1,0 +1,21 @@
+{
+    "fecha": "2026-04-16",
+    "mesa": "01",
+    "cliente": "1",
+    "total_sin_descuento": 267970.19999999995,
+    "descuento_porcentaje": 15.0,
+    "descuento_valor": 40195.52999999999,
+    "total_final": 227774.66999999995,
+    "detalle": [
+        {
+            "producto": "001",
+            "cantidad": 20,
+            "subtotal": 237976.19999999998
+        },
+        {
+            "producto": "002",
+            "cantidad": 3,
+            "subtotal": 29994.0
+        }
+    ]
+}
